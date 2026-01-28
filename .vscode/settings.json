@@ -1,0 +1,6 @@
+{
+  "markdown.marp.enableHtml": true,
+  "markdown.preview.breaks": true,
+  "markdown.mermaid.theme": "default",
+  "markdown.mermaid.enable": true
+}
